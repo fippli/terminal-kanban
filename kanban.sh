@@ -85,7 +85,6 @@ function main() {
   while [[ ${CHOICE} != "q" ]]; do
     mainMenu
   done
-  cd ${1}
 }
 
 main
