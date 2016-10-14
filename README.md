@@ -9,7 +9,7 @@ Good luck.
 • There are some problems with the formatting of the output. Especially if å, ä or ö is added. Probably for more special characters.
 
 ## Installation
-I put this script in /usr/local/bin
+I put this script in a file /usr/local/bin/kanban
 ```
 #!/bin/bash
 
@@ -21,3 +21,4 @@ cd /<path>/<to>/<folder>/
 
 cd ${ORIGIN}
 ```
+Now you kan simply run kanban in the terminal.
